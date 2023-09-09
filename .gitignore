@@ -71,3 +71,12 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .DS_Store
+
+# FireBase Packages 고용량입니다. 따로 설치 바랍니다... Assets -> Import Package -> CustomPackage -> Firebase에서 받은 FirebaseAnalytics.unitypackage 설치
+/[Aa]ssets/Editor Default Resources/FireBase/*
+/[Aa]ssets/ExternalDependencyManager/*
+/[Aa]ssets/Firebase/
+/[Aa]ssets/Plugins/iOS/FireBase/
+/[Aa]ssets/Plugins/tvOS/FireBase/
+Assets/StreamingAssets/google-services-desktop.json
+Assets/StreamingAssets/google-services-desktop.json.meta
